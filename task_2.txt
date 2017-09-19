@@ -1,0 +1,36 @@
+(\W|.)[^.]\<[oO][\w.\-]*+@[\w.\-]+\.[a-zA-Z]{2,6}
+34 совпадения
+    Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11586:  Outlook.2000@enron.com
+	Line 13942: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19963: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: off-yild@zdemail.zdlists.com.
+	Line 30121: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35981: Sender: owner-strawbale@crest.org
+	Line 36030: From: owner-strawbale@crest.org
+	Line 36035: X-From: owner-strawbale@crest.org
+	Line 36054: Sender: owner-strawbale@crest.org
+	Line 38055: To: outlook.team@enron.com
+	Line 39072:  Outlook.2000@enron.com
+	Line 41883: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48001: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52636: From: outlook-migration-team@enron.com
+	Line 52652: From: outlook-migration-team@enron.com
+	Line 54429: ove@commissioner.com . Do not respond to this email directly.   =09
+	Line 59227: From: online.service@schwab.com
+	Line 59233: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64779: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68976: From: open2win.0ll1.net@mailman.enron.com
+	Line 68982: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73065: From: oportunity@cells4free.com
+	Line 73071: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: off-yild@zdemail.zdlists.com.
+	Line 81778: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85062: From: owner-strawbale@crest.org
+	Line 85067: X-From: owner-strawbale@crest.org
+	Line 85086: Sender: owner-strawbale@crest.org
+	Line 86065: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90619: Sender: owner-strawbale@crest.org
+	Line 90926: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92995:  Outlook.2000@enron.com

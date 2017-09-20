@@ -1,4 +1,4 @@
-[^.]\<(o|O)[A-Za-z0-9._-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}
+(\s|<|^)(o|O)[A-Za-z0-9._-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}
 34 совпадения
     Line 5389: To: outlook.team@enron.com
 	Line 10713: To: outlook.team@enron.com
